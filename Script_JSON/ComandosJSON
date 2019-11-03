@@ -1,0 +1,68 @@
+
+---------- JSON ProdutorPOST ------------
+{
+	
+        "nome": "nomequalquer",
+        "email": "nome@gmail.com",
+        "telefone": "449974747"
+	
+}
+
+---------- JSON LongaMetragemPOST ------------
+{
+        "categoria": "nomecategoria"
+}
+
+---------- JSON DocumentarioPOST ------------
+{
+	"assunto": "assuntodesejado"
+}
+
+---------- JSON DiretorPOST ------------
+{
+		"nome": "nomeDiretor",
+        "endereco":" rua nomerua",
+        "telefone": "4498789792",
+        "email": "nome@gmail.com"
+}
+
+---------- JSON AtorPOST ------------
+{
+		"nome": "nomenome",
+        "email": "nome@gmail.com",
+        "telefone": "4498789792"
+}
+
+---------- JSON FilmePOST ------------ //"produtor":{"id":"1"} salvar ID da tabela Produtor 
+{
+        "verba": 1000.24,
+        "dtgravacaoinicio": "03-11-2019",
+        "dtgravacaofim": "04-11-2019",
+        "produtor":{
+        	"id": "1"
+        },
+        "diretor":{
+        	"id": "1"
+        },
+        "longametragem":{
+        	"id": "1"
+        },
+        "documentario":{
+        	"id": "1"
+        },
+        "ator":{
+        	"id": "1"
+        }
+        
+}
+
+---------- JSON AtuacaoPOST ------------ 
+{
+	"papel": "nomepapel",
+	"ator":{
+		"id": "1"
+	},
+	"filme":{
+		"id": "1"
+	} 
+}
