@@ -8,7 +8,8 @@ Pequena aplicação com persistência e recuperação de um filme.
 
 ### Execução:
 
-* Baixe e Execute arquivo <b>*Filmes-0.0.1-SNAPSHOT.jar*</b> para iniciar servidor como processo; <br>
+* Baixe <a href="https://drive.google.com/open?id=1sF-06uNknJ2g2u2WG1lHQdxBdmCOYtcC">SNAPSHOT.jar</a> e<br>
+Execute arquivo para iniciar servidor como processo; <br>
 * Execute <b>Postman</b>:<br>
 Vai em File -> Import -> <b>Filmes.postman_collection.json</b><br>
 As pastas são coleções das respectivas tabelas do BD, e cada pasta contém requisições, dentro deles contem:<br>
@@ -32,3 +33,9 @@ insira comando Json com nome do <b>"Campo": "Valor"</b>, exemplo abaixo:<br>
    }
    
 * clique <b>SEND</b><br>
+
+### Pastas:
+
+* A pasta <b>Script_JSON</b> possui os comandos para colocar em execução das API's.
+* A Pasta <b>Postman</b> contem arquivo <b>Filmes.postman_collection.json</b> para fazer import no PostMan.
+* A Pasta <b>Script_TabelasBD</b> contem os scripts SQL para banco MYSQL.
