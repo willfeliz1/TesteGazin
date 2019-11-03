@@ -38,3 +38,4 @@ insira comando Json com nome do <b>"Campo": "Valor"</b>, exemplo abaixo:<br>
 * A pasta <b>Script_JSON</b> possui os comandos para colocar em execução das API's.
 * A Pasta <b>Postman</b> contem arquivo <b>Filmes.postman_collection.json</b> para fazer import no PostMan.
 * A Pasta <b>Script_TabelasBD</b> contem os scripts SQL para banco MYSQL.
+* A Pasta <b>Filmes/Filmes</b> contem projeto Spring Boot.
