@@ -8,8 +8,7 @@ Pequena aplicação com persistência e recuperação de um filme.
 
 ### Execução:
 
-* Baixe <a href="https://drive.google.com/open?id=1sF-06uNknJ2g2u2WG1lHQdxBdmCOYtcC">SNAPSHOT.jar</a> e<br>
-Execute arquivo para iniciar servidor como processo; <br>
+* Baixe <a href="https://drive.google.com/open?id=1sF-06uNknJ2g2u2WG1lHQdxBdmCOYtcC">SNAPSHOT.jar</a> e Execute arquivo para iniciar servidor como processo; <br>
 * Execute <b>Postman</b>:<br>
 Vai em File -> Import -> <b>Filmes.postman_collection.json</b><br>
 As pastas são coleções das respectivas tabelas do BD, e cada pasta contém requisições, dentro deles contem:<br>
